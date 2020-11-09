@@ -1,0 +1,22 @@
+.profile_mainDiv{
+  margin-top: 60px;
+}
+.proInfoDiv{
+  margin: auto;
+  width: 700px;
+  border-radius: 10px;
+  background-color: black;
+}
+.proInfoDiv{
+  color: white;
+}
+hr{
+  color: white;
+}
+.proInfoDiv h1{
+  text-align: center;
+}
+.proInfoDiv label{
+  font-size: 20px;
+  margin-left: 30px;
+}

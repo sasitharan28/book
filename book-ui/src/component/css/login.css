@@ -1,0 +1,56 @@
+#login_main{
+  margin: auto;
+  margin-top: 60px;
+  width: 650px;
+  height: 450px;
+  border-radius: 10px;
+  background-color: black;
+}
+#loginForm{
+  position: relative;
+  top: 50px;
+  margin: auto;
+  width: 500px;
+  height: 350px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+}
+#loginForm h1{
+  position: relative;
+  top: 10px;
+  color: #0564cb;
+}
+#loginForm label{
+  font-size: 23px;
+  color: #0564cb;
+  text-align: center;
+}
+#userNameIp,#userPasswordIp{
+  width: 400px;
+  text-indent: 20px;
+}
+#submitBtn{
+  width: 60%;
+  height: 50px;
+  font-size: 20px;
+  background-color: #0564cb;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: 600;
+}
+#submitBtn:hover{
+  background-color: white;
+  color:#0564cb;
+  border: 2px solid #0564cb;
+}
+#errorMsg{
+  margin-top: 20PX;
+  width: 100%;
+  height:30px;
+  font-size: 18px;
+  z-index: 10;
+  color:red;
+}

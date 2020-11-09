@@ -1,0 +1,38 @@
+.AdminDiv{
+  margin: auto;
+  width:1000px;
+  height: 600px;
+  background-color:black;
+}
+.admin_panel_add_user_button, .admin_panel_view_user_button{
+  margin-left: 10px;
+  cursor: pointer;
+  border: 2px solid #0564cb;
+  background-color: #0564cb;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 5px;
+}
+.admin_panel_add_user_button:hover , .admin_panel_view_user_button:hover{
+  color: #0564cb;
+  background-color: white;
+  border: 2px solid #0564cb;
+}
+.admin_panel_add_book_button, .admin_panel_view_book_button{
+  margin-left: 10px;
+  cursor: pointer;
+  border: 2px solid #0564cb;
+  background-color: #0564cb;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 5px;
+}
+.admin_panel_add_book_button:hover , .admin_panel_view_book_button:hover{
+  color: #0564cb;
+  background-color: white;
+  border: 2px solid #0564cb;
+}

@@ -1,0 +1,19 @@
+#home_main{
+  margin: auto;
+  margin-top: 60px;
+  width: 650px;
+  height: 200px;
+  background-color: black;
+  color:white;
+  border-radius: 5px;
+}
+#textDiv{
+  position: relative;
+  top: 20px;
+  margin: auto;
+  width: 550px;
+  height: 150px;
+  text-indent: 10px;
+  border: 2px solid red;
+  border-radius: 5px;
+}

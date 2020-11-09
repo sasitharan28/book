@@ -1,0 +1,13 @@
+.bookList_mainDiv{
+  width:1000px;
+  margin: auto;
+  margin-top: 60px;
+  color: blue;
+  height: auto;
+  background-color: black;
+}
+.bookListWarraper{
+  width: 960px;
+  margin: auto;
+  background-color: white;
+}

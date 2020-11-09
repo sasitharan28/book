@@ -1,0 +1,8 @@
+.secondDiv{
+  position: relative;
+  top: 40px;
+  margin: auto;
+  width: 960px;
+  min-height: 50px;
+  background-color: white;
+}

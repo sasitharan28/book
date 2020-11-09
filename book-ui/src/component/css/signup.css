@@ -1,0 +1,36 @@
+#signup_main{
+  margin: auto;
+  margin-top: 60px;
+  width: 650px;
+  height: 500px;
+  background-color: black;
+  color: #0564cb;
+  border-radius: 5px;
+}
+#signupForm{
+  position: relative;
+  margin: auto;
+  width: 550px;
+  height: 400px;
+  top: 50px;
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+}
+#signupForm h1{
+  text-align: center;
+}
+#signupForm label{
+  font-size: 23px;
+  color: #0564cb;
+  text-align: center;
+}
+#signupUserNameIp,#signupEmailIp,#signupPasswordIp{
+  width: 400px;
+  font-size: 20px;
+  text-indent: 20px;
+}
+#signupErrorMsg{
+  color: red;
+  font-size: 12px;
+}

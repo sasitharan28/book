@@ -1,0 +1,41 @@
+.addBook_mainDiv{
+  margin: auto;
+  margin-top: 60px;
+  color: blue;
+  width: 1000px;
+  height: auto;
+  background-color: black;
+}
+.addBook_mainDiv h1{
+  color: white;
+  text-align: center;
+}
+.addBookWarraper{
+  width: 960px;
+  background-color: white;
+  margin:auto;
+}
+.titleIp{
+  width:100%;
+  height: 50px;
+  font-size: 18px;
+  text-indent: 20px;
+}
+.addBookWarraper label{
+  margin-left: 20px;
+}
+.saveBtn,.bookListBtn,.resetBtn{
+  float:right;
+  margin-right: 20px;
+  height: 30px;
+  font-size: 17px;
+  background-color: #0564cb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.saveBtn:hover ,.bookListBtn:hover ,.resetBtn:hover{
+  background-color: white;
+  color: #0564cb;
+  border: 2px solid #0564cb;
+}
